@@ -18,11 +18,9 @@
 
 # About
 
-Bobble Pro is a revised design and which is one of Suon May Sophanith's typefaces designed and published in 2022. 
-This font is kind of leaf that a modern display Khmer typeface based on the writing style of a brush used on a wall. a medium size and is suitable for headings and large typography. In this new version.
+Bobble Pro is a funky and playful font by Sophanith. It contains lowercase and uppercase letters, symbol. It will add cheerful vibes to the designs.
 
-Bobble Pro is designed by Suon May Sophanith, a Cambodian self-taught typeface designer based in Phnom Penh, Cambodia. Work for Graphic Design and custom font design services. based in Phnom Penh, Cambodia. and has started designing type in since 2013. 
-
+This Bobble Pro is ideal for crafting, branding, and decorating your project. This Font's letters are perfect for educational materials for your classes, wedding invitations, kids, or display purposes for your blog. user can create a beautiful frame for homes. Or just use it for business, book covers, stationery, marketing, magazines, etc.
 
 Bobble Pro is designed by Suon May Sophanith in 2022.
 
@@ -36,7 +34,7 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://suonmaysophanith7.github.io/KonKhmer_SleokChher.
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://suonmaysophanith7.github.io/Bobble-Pro.
 
 ## Changelog
 

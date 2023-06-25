@@ -1,11 +1,11 @@
 
 # Bobble Pro
 
-[![][Fontbakery]](https://suonmaysophanith7.github.io/KonKhmer_SleokChher/fontbakery/fontbakery-report.html)
-[![][Universal]](https://suonmaysophanith7.github.io/KonKhmer_SleokChher/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://suonmaysophanith7.github.io/KonKhmer_SleokChher/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://suonmaysophanith7.github.io/KonKhmer_SleokChher/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://suonmaysophanith7.github.io/KonKhmer_SleokChher/fontbakery/fontbakery-report.html)
+[![][Fontbakery]](https://suonmaysophanith7.github.io//Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][Universal]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://suonmaysophanith7.github.io//Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://suonmaysophanith7.github.io//Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://suonmaysophanith7.github.io//Bobble-Pro/fontbakery/fontbakery-report.html)
 
 [Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FKonKhmer_SleokChher%2Fgh-pages%2Fbadges%2Foverall.json
 [GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FKonKhmer_SleokChher%2Fgh-pages%2Fbadges%2FGoogleFonts.json
@@ -18,13 +18,13 @@
 
 # About
 
-KonKhmer_SleokChher is a revised design and which is one of Suon May Sophanith's typefaces designed and published in 2015. 
+Bobble Pro is a revised design and which is one of Suon May Sophanith's typefaces designed and published in 2022. 
 This font is kind of leaf that a modern display Khmer typeface based on the writing style of a brush used on a wall. a medium size and is suitable for headings and large typography. In this new version.
 
-KonKhmer_SleokChher is designed by Suon May Sophanith, a Cambodian self-taught typeface designer based in Phnom Penh, Cambodia. Work for Graphic Design and custom font design services. based in Phnom Penh, Cambodia. and has started designing type in since 2013. 
+Bobble Pro is designed by Suon May Sophanith, a Cambodian self-taught typeface designer based in Phnom Penh, Cambodia. Work for Graphic Design and custom font design services. based in Phnom Penh, Cambodia. and has started designing type in since 2013. 
 
 
-KonKhmer_SleokChher is designed by Suon May Sophanith in 2015.
+Bobble Pro is designed by Suon May Sophanith in 2022.
 
 ## Building
 

@@ -1,4 +1,15 @@
 # My Font
+[![][Fontbakery]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][Universal]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][GF Profile]](https://suonmaysophanith7.github.ioBobble-Pro/fontbakery/fontbakery-report.html)
+[![][Outline Correctness]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
+[![][Shaping]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
+
+[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2Foverall.json
+[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FGoogleFonts.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
+[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FShapingChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FUniversal.json
 
 ![Sample Image](documentation/image1.png)
 

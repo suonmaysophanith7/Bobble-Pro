@@ -17,7 +17,7 @@
 
 Bobble Pro is a fancy style. It contains lowercase and uppercase letters, symbol, It will add cheerful vibes to the designs.
 
-This Bobble Rro font is ideal for crafting, branding, and decorating the project. These bubble letters are perfect for educational materials for your classes, wedding invitations, kids, or display purposes for the blog. Also with its help, createing in a beautiful frame. 
+This Bobble Pro font is ideal for crafting, branding, and decorating the project. These bubble letters are perfect for educational materials for your classes, wedding invitations, kids, or display purposes for the blog. Also with its help, createing in a beautiful frame. 
 
 Bobble Pro is designed by Suon May Sophanith in 2022.
 

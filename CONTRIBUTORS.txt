@@ -9,4 +9,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Suon May Sophanith <suonmaysophantih7@gmail.com>
+Suon May Sophanith <suonmaysophanith@gmail.com>

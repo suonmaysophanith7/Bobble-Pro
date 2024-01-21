@@ -1,21 +1,5 @@
 # My Font
 
-[![][Fontbakery]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
-[![][Universal]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://suonmaysophanith7.github.io/Bobble-Pro/fontbakery/fontbakery-report.html)
-
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuonmaysophanith7%2FBobble-Pro%2Fgh-pages%2Fbadges%2FUniversal.json
-
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
-
-Don't hesitate to create images!
-
 ![Sample Image](documentation/image1.png)
 
 ## About
@@ -24,7 +8,7 @@ Bobble Pro is a fancy style. It contains lowercase and uppercase letters, symbol
 
 This Bobble Rro font is ideal for crafting, branding, and decorating the project. These bubble letters are perfect for educational materials for your classes, wedding invitations, kids, or display purposes for the blog. Also with its help, createing in a beautiful frame. 
 
-Bobble Pro is designed by Suon May Sophanith in 2015.
+Bobble Pro is designed by Suon May Sophanith in 2022.
 
 ## Building
 

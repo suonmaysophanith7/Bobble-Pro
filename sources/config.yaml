@@ -1,7 +1,4 @@
 sources:
-  - BobblePro.glyphs
-  - BobblePro-Regular.glyphs
-axisOrder:
-  - wght
-  - ital
+  - BobblePro.designspace
 familyName: Bobble Pro
+buildVariable: false
